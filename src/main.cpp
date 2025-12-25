@@ -1,3 +1,5 @@
+//upravljanje pametnim raznjem i propratnom opremom
+
 #include <Arduino.h>
 #include <Wire.h>
 #include <Adafruit_GFX.h>
